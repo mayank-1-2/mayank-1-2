@@ -31,13 +31,15 @@ const mayank = {
 ```
 
 
+
+
 ---
 
 
 
  📶 Stats:<br><br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-1-2&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-1-2&theme=dark&layout=compact&align=right&width=40%)]
  
  ---
  
@@ -50,13 +52,13 @@ const mayank = {
  <hr>
  
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-1-2&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-1-2&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)]      
          
 
 ---
  
 
-[![mayank's github activity graph](https://activity-graph.herokuapp.com/graph?username=mayank-1-2&theme=react-dark)](https://github.com/mayank-1-2/github-readme-activity-graph)
+![mayank's github activity graph](https://activity-graph.herokuapp.com/graph?username=mayank-1-2&theme=react-dark)
 
   
 
