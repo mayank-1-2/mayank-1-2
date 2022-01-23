@@ -33,13 +33,14 @@ const mayank = {
 
 
 
+
 ---
 
 
 
  📶 Stats:<br><br>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-1-2&theme=dark&layout=compact&align=right&width=40%)]
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-1-2&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
  
@@ -52,19 +53,18 @@ const mayank = {
  <hr>
  
  
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-1-2&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)]      
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-1-2&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 
 ---
  
 
-![mayank's github activity graph](https://activity-graph.herokuapp.com/graph?username=mayank-1-2&theme=react-dark)
+[![mayank's github activity graph](https://activity-graph.herokuapp.com/graph?username=mayank-1-2&theme=react-dark)](https://github.com/mayank-1-2/github-readme-activity-graph)
 
   
 
 ---
   </code>
 </p>
-
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
