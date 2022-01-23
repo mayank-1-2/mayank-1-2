@@ -13,7 +13,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/mayank-1-2?label=Follow&style=social)
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<!-- <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="230"> -->
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
