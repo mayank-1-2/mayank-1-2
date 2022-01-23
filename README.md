@@ -11,9 +11,9 @@
 [![Linkedin: mayank](https://img.shields.io/badge/-mayank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-kumar-mishra/)](https://www.linkedin.com/in/mayank-kumar-mishra/)
 [![Gmail Badge](https://img.shields.io/badge/-mmayankmishra38@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mmayankmishra38@gmail.com)](mailto:mmayankmishra38@gmail.com)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mayank-1-2.github.io/portfolio/)](https://mayank-1-2.github.io/portfolio/)
-
+<!-- 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<img src="https://media.giphy.com/media/W0zdb3aCM43XuRaKN3/giphy.gif" width="230">
+<img src="https://media.giphy.com/media/W0zdb3aCM43XuRaKN3/giphy.gif" width="230"> -->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
