@@ -12,8 +12,8 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://mayank-1-2.github.io/portfolio/)](https://mayank-1-2.github.io/portfolio/)
 ![GitHub followers](https://img.shields.io/github/followers/mayank-1-2?label=Follow&style=social)
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='left' src="https://media.giphy.com/media/W0zdb3aCM43XuRaKN3/giphy.gif" width="230">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
