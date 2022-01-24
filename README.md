@@ -40,20 +40,20 @@ const mayank = {
 
  📶 Stats:<br><br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-1-2&theme=nightowl&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank-1-2&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
  ---
  
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/mayank-1-2/count.svg?align=center)
 
- ![Github stats](https://github-readme-stats.vercel.app/api?username=mayank-1-2&theme=nightowl)  
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=mayank-1-2&theme=dark)  
  
  
  <hr>
  
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-1-2&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-1-2&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark)](https://git.io/streak-stats)       
          
 
 ---
