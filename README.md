@@ -1,5 +1,8 @@
 
-<h2><em>Hola. I'm Mayank Kumar Mishra & I ❤️ code.</em></h2>
+<h2><em>Hola.<br>
+    
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'M+MAYANK+KUMAR+MISHRA;I'M+SALESFORCE+DEVELOPER;I'M+WEB+DEVELOPER;I'M+PUBLIC+SPEAKER)](https://git.io/typing-svg)
+& I ❤️ code.</em></h2>
 <h2>
 
 <p><em>Salesforce Developer at <a href="https://www.concret.io//">Concret.io</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
