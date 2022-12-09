@@ -48,10 +48,7 @@ const mayank = {
  ---
  
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/mayank-1-2/count.svg?align=center)
-
- ![Github stats](https://github-readme-stats.vercel.app/api?username=mayank-1-2&theme=tokyonight)  
- 
+![visitors](https://profile-counter.glitch.me/mayank-1-2/count.svg?align=center) 
  
  <hr>
  
