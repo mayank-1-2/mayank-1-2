@@ -53,7 +53,7 @@ const mayank = {
  <hr>
  
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-1-2&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=dark)](https://git.io/streak-stats)       
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mayank-1-2&theme=dark&border_radius=5.2)](https://git.io/streak-stats)     
          
 
 ---
